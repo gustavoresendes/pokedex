@@ -26,4 +26,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto que imita uma pokedex para mostrar pokémons de todas as gerações.
 
-- [x] Informações básicas dos pokémons.
+- [x] Nome e foto dos pokémons.
